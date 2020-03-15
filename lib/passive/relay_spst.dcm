@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP RELAY_SPST
+D Single Pole Single Throw Relay
 $ENDCMP
 #
 #End Doc Library
-

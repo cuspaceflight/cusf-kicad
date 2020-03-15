@@ -1,12 +1,12 @@
 name: NCP4620
 datasheet: http://www.farnell.com/datasheets/1878393.pdf
 footprint: agg:SC-70-5
-description: 
+description: 150mA, 10V, Low Dropout Regulator
 ordercodes:
   - [Farnell, '2464259']
 pins:
 - - - [VIN, 5, pwrin]
-  - - [CE, 1, in]
+    - [CE, 1, in]
     - [GND, 3, pwrin]
 - - - [VOUT, 4, pwrout]
   - - [NC, 2, nc]
