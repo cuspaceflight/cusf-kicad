@@ -1,0 +1,14 @@
+description: 16-Bit Digital Barometer
+footprint: agg:MS5540C
+name: MS5540C
+ordercodes:
+- [Farnell, '2362662']
+pins:
+- - - [SCLK, 1, in]
+    - [GND, 2, pwrin]
+    - [PV, 3, nc]
+    - [PEN, 4, nc]
+- - - [DOUT, 8, out]
+    - [DIN, 7, in]
+    - [MCLK, 6, in]
+    - [VDD, 5, pwrin]
