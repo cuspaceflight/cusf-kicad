@@ -1,5 +1,5 @@
 EESchema-DOCLIB  Version 2.0
-$CMP LTC2983
+$CMP LTC2986
 D Multi-Sensor High Accuracy Digital Temperature Measurement System
-F http://cds.linear.com/docs/en/datasheet/2983fc.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/29861fa.pdf
 $ENDCMP
