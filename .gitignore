@@ -1,6 +1,6 @@
-agg-kicad.kicad_pcb
-agg-kicad.sch
-agg-kicad-cache.lib
+cusf-kicad.kicad_pcb
+cusf-kicad.sch
+cusf-kicad-cache.lib
 *.bak
 *.bck
 fp-lib-table
