@@ -10,18 +10,21 @@ pins:
     - [VDD,  6, pwrin]
     - [VDD,  8, pwrin]
     - [VDD, 45, pwrin]
+
   - - [VREF_OUT, 13, pwrout]
     - [VREF_P,   14,  pwrin]
     - [VREF_BYP, 11, pwrout]
     - [LDO,      43, pwrout]
+
   - - [~RESET, 42, out]
     - [INT,    37, out]
     - [SCK,    38, out]
     - [SDA,    39, out]
     - [SDI,    40, out]
     - [~CS,    41, out]
+
   - - [NC, 10, nc]
-  - - [COM, 36,    in]
+
     - [GND,  1, pwrin]
     - [GND,  3, pwrin]
     - [GND,  5, pwrin]
@@ -30,9 +33,11 @@ pins:
     - [GND, 12, pwrin]
     - [GND, 15, pwrin]
     - [GND, 44, pwrin]
+
 - - - [Q1, 48, pwrout]
     - [Q2, 47, pwrout]
     - [Q3, 46, pwrout]
+
   - - [CH1,    16, in]
     - [CH2,    17, in]
     - [CH3,    18, in]
@@ -43,4 +48,15 @@ pins:
     - [CH8,    23, in]
     - [CH9,    24, in]
     - [CH10,   25, in]
-    - [CH_GND, 36, in]
+
+  - - [GND, 26, pwrin]
+    - [GND, 27, pwrin]
+    - [GND, 28, pwrin]
+    - [GND, 29, pwrin]
+    - [GND, 30, pwrin]
+    - [GND, 31, pwrin]
+    - [GND, 32, pwrin]
+    - [GND, 33, pwrin]
+    - [GND, 34, pwrin]
+    - [GND, 35, pwrin]
+    - [COM, 36, pwrin]
