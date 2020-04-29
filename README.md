@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="150px" src="cusf-logo.png">
+	<img width="250px" src="cusf-logo.png">
 	<h1 align="center">Cambridge University Spaceflight KiCAD Library</h1>
 </p>
 
