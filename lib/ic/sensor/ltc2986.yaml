@@ -25,14 +25,13 @@ pins:
 
   - - [NC, 10, nc]
 
-    - [GND,  1, pwrin]
+  - - [GND,  1, pwrin]
     - [GND,  3, pwrin]
     - [GND,  5, pwrin]
     - [GND,  7, pwrin]
     - [GND,  9, pwrin]
     - [GND, 12, pwrin]
     - [GND, 15, pwrin]
-    - [GND, 44, pwrin]
 
 - - - [Q1, 48, pwrout]
     - [Q2, 47, pwrout]
@@ -49,7 +48,8 @@ pins:
     - [CH9,    24, in]
     - [CH10,   25, in]
 
-  - - [GND, 26, pwrin]
+  - - [GND, 44, pwrin]
+    - [GND, 26, pwrin]
     - [GND, 27, pwrin]
     - [GND, 28, pwrin]
     - [GND, 29, pwrin]
