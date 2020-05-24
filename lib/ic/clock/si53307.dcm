@@ -1,0 +1,5 @@
+EESchema-DOCLIB  Version 2.0
+$CMP Si53307
+D Ultra-Low Additive Jitter Fanout Clock Buffer
+F https://www.silabs.com/documents/public/data-sheets/si5330x-datasheet.pdf
+$ENDCMP

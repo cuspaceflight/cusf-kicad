@@ -1,0 +1,23 @@
+name: Si53307
+datasheet: https://www.silabs.com/documents/public/data-sheets/si5330x-datasheet.pdf
+description: Ultra-Low Additive Jitter Fanout Clock Buffer
+ordercodes: [["Mouser", "634-SI53307-B-GM"]]
+footprint: agg:DFN-10-SL18860DC # TODO: This needs updating
+pins:
+- - - [VDD, 1, pwrin]
+  - - [CLK0,  6, in]
+    - [CLK0b, 7, in]
+    - [CLK1,  2, in]
+    - [CLK1b, 3, in]
+  - - [OE, 16, in]
+  - - [GND,  4, pwrin]
+    - [GND, 15, pwrin]
+    - [GND, EP, pwrin]
+- - - [VDDO, 5, pwrin]
+  - - [SFOUT0,  8, in]
+    - [SFOUT1, 13, in]
+  - - [Q0,  12, out]
+    - [Q0b, 11, out]
+    - [Q1,  10, out]
+    - [Q1b,  9, out]
+  - - [CLK_SEL, 14, in]
