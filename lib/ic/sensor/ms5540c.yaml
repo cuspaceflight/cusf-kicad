@@ -4,11 +4,11 @@ name: MS5540C
 ordercodes:
 - [Farnell, '2362662']
 pins:
-- - - [SCLK, 1, in]
+- - - [VDD, 5, pwrin]
     - [GND, 2, pwrin]
-    - [PV, 3, nc]
-    - [PEN, 4, nc]
-- - - [DOUT, 8, out]
-    - [DIN, 7, in]
+  - - [SCLK, 1, in]
     - [MCLK, 6, in]
-    - [VDD, 5, pwrin]
+- - - [DIN, 7, in]
+    - [DOUT, 8, out]
+  - - [PV, 3, nc]
+    - [PEN, 4, nc]
