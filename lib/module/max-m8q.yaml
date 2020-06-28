@@ -1,5 +1,5 @@
 description: uBlox MAX-M8Q GPS Receiver
-footprint: agg:MAX-M8Q
+footprint: cusf:MAX-M8Q
 name: MAX-M8Q
 ordercodes: []
 datasheet: https://www.u-blox.com/sites/default/files/MAX-M8-FW3_DataSheet_%28UBX-15031506%29.pdf

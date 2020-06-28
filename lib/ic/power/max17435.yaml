@@ -1,6 +1,6 @@
 datasheet: https://datasheets.maximintegrated.com/en/ds/MAX17435-MAX17535.pdf
 description: Multi-chemistry battery charger with SMBus communication
-footprint: agg:QFN-24-EP-MAX
+footprint: cusf:QFN-24-EP-MAX
 name: MAX17435
 ordercodes:
 - [Farnell, '2516688']

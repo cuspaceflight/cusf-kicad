@@ -1,6 +1,6 @@
 datasheet: http://www.st.com/resource/en/datasheet/stm32f334k8.pdf
 description: STM32F3 32 pin LQFP package
-footprint: agg:LQFP-32
+footprint: cusf:LQFP-32
 name: STM32F3xxKxTx
 ordercodes:
   - [Farnell, '2469571']

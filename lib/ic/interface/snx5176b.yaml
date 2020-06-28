@@ -1,6 +1,6 @@
 datasheet: http://www.ti.com.cn/cn/lit/ds/symlink/sn75176b.pdf
 description: Differential bus transceiver
-footprint: agg:SOIC-8
+footprint: cusf:SOIC-8
 name: SNx5176B
 ordercodes:
 - [Farnell, '2395904']

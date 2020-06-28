@@ -1,6 +1,6 @@
 datasheet: http://www.nxp.com/documents/data_sheet/74HC_HCT595.pdf
 description: 8-bit serial-to-parallel shift register
-footprint: agg:TSSOP-16
+footprint: cusf:TSSOP-16
 name: 74HC595
 ordercodes:
 - [Farnell, '2425499']

@@ -1,6 +1,6 @@
 datasheet: https://cds.linear.com/docs/en/datasheet/4151ff.pdf
 description: I2C Power Monitor
-footprint: agg:DFN-10-EP-LT
+footprint: cusf:DFN-10-EP-LT
 name: LTC4151
 ordercodes:
 - [Farnell, '2295457']

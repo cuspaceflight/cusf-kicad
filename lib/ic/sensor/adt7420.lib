@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ADT7420 IC 0 40 Y Y 1 F N
 F0 "IC" -200 600 50 H V L CNN
 F1 "ADT7420" -200 -600 50 H V L CNN
-F2 "agg:LFCSP-16-AD" -200 -700 50 H I L CNN
+F2 "cusf:LFCSP-16-AD" -200 -700 50 H I L CNN
 F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7420.pdf" -200 -800 50 H I L CNN
 F4 "2306581" -200 -900 50 H I L CNN "Farnell"
 DRAW

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 749010012A T 0 40 Y Y 1 F N
 F0 "T" -200 600 50 H V L CNN
 F1 "749010012A" -200 -600 50 H V L CNN
-F2 "agg:749010012A" -200 -700 50 H I L CNN
+F2 "cusf:749010012A" -200 -700 50 H I L CNN
 F3 "http://katalog.we-online.de/pbs/datasheet/749010012A.pdf" -200 -800 50 H I L CNN
 F4 "2422552" -200 -900 50 H I L CNN "Farnell"
 DRAW

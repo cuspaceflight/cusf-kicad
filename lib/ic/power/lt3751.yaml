@@ -1,7 +1,7 @@
 name: LT3751
 description: High Voltage Capacitor Charger Controller with Regulation
 datasheet: https://www.analog.com/media/en/technical-documentation/data-sheets/LT3751.pdf
-footprint: agg:TSSOP-20-EP
+footprint: cusf:TSSOP-20-EP
 ordercodes:
   - [Mouser, '584-LT3751EFE#PBF']
 pins:

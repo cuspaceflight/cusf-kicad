@@ -1,6 +1,6 @@
 datasheet: http://www.latticesemi.com/view_document?document_id=49312
 description: iCE40 HX FPGA
-footprint: agg:Lattice-BG121
+footprint: cusf:Lattice-BG121
 name: iCE40HX8K-BG121
 ordercodes:
   - [DigiKey, '220-2148-ND']
@@ -138,4 +138,3 @@ pins:
     - [IOT_222, A2, bidi]
     - [IOT_223, A3, bidi]
     - [IOT_225, A1, bidi]
-

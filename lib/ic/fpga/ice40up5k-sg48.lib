@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF iCE40UP5K-SG48 IC 0 40 Y Y 1 F N
 F0 "IC" -800 1800 50 H V L CNN
 F1 "iCE40UP5K-SG48" -800 -1800 50 H V L CNN
-F2 "agg:Lattice-SG48" -800 -1900 50 H I L CNN
+F2 "cusf:Lattice-SG48" -800 -1900 50 H I L CNN
 F3 "http://www.latticesemi.com/view_document?document_id=51968" -800 -2000 50 H I L CNN
 F4 "220-2212-1-ND" -800 -2100 50 H I L CNN "DigiKey"
 DRAW

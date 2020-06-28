@@ -1,6 +1,6 @@
 datasheet: http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
 description: STM32F0 32 pin UFQFPN package
-footprint: agg:QFN-32-EP-ST
+footprint: cusf:QFN-32-EP-ST
 name: STM32F0xxKxUx
 ordercodes:
 - [Farnell, '2393639']

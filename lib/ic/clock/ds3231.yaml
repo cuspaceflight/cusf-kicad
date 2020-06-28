@@ -2,7 +2,7 @@ name: DS3231MZ
 description: I2C integrated RTC/TCXO/Crystal
 datasheet: https://datasheets.maximintegrated.com/en/ds/DS3231M.pdf
 ordercodes: [["Farnell", "2515358"]]
-footprint: agg:SOIC-8
+footprint: cusf:SOIC-8
 pins:
 - - - [VBAT, 6, pwrin]
     - [VCC, 2, pwrin]

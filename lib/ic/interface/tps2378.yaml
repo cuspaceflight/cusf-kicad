@@ -1,6 +1,6 @@
 datasheet: http://www.ti.com/lit/ds/symlink/tps2378.pdf
 description: TPS2378 802.3at PoE PD controller
-footprint: agg:SOIC-8-EP
+footprint: cusf:SOIC-8-EP
 name: TPS2378
 ordercodes:
   - [Farnell, '2144277']

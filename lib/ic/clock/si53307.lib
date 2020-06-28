@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF Si53307 IC 0 40 Y Y 1 F N
 F0 "IC" -400 600 50 H V L CNN
 F1 "Si53307" -400 -600 50 H V L CNN
-F2 "agg:DFN-10-SL18860DC" -400 -700 50 H I L CNN
+F2 "cusf:DFN-10-SL18860DC" -400 -700 50 H I L CNN
 F3 "https://www.silabs.com/documents/public/data-sheets/si5330x-datasheet.pdf" -400 -800 50 H I L CNN
 F4 "634-SI53307-B-GM" -400 -900 50 H I L CNN "Mouser"
 DRAW

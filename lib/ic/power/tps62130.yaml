@@ -1,6 +1,6 @@
 datasheet: http://www.ti.com/lit/ds/symlink/tps62130.pdf
 description: 3A Adjustable Buck Converter
-footprint: agg:QFN-16-EP-TI
+footprint: cusf:QFN-16-EP-TI
 name: TPS62130
 ordercodes:
 - [Farnell, '2361246']

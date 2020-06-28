@@ -1,6 +1,6 @@
 datasheet: http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141306.pdf
 description: STM32F4 144 pin 10x10 UFBGA package
-footprint: agg:BGA-144-08P-ST
+footprint: cusf:BGA-144-08P-ST
 name: STM32F4xxZxJx
 ordercodes:
 - [Farnell, '2488316']

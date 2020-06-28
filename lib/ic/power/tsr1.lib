@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF TSR1 IC 0 40 Y Y 1 F N
 F0 "IC" -300 200 50 H V L CNN
 F1 "TSR1" -300 -200 50 H V L CNN
-F2 "agg:TSR1" -300 -300 50 H I L CNN
+F2 "cusf:TSR1" -300 -300 50 H I L CNN
 F3 "http://www.tracopower.com/products/tsr1.pdf" -300 -400 50 H I L CNN
 DRAW
 S -300 150 300 -150 0 1 0 f

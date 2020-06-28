@@ -1,6 +1,6 @@
 datasheet: http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf
 description: STM32F0 48 pin LQFP package
-footprint: agg:LQFP-48
+footprint: cusf:LQFP-48
 name: STM32F0xxCxTx
 ordercodes:
 - [Farnell, '2432094']

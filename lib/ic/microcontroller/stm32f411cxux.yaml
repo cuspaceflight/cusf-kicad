@@ -1,6 +1,6 @@
 datasheet: http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115249.pdf
 description: STM32F4 48 pin UFQFN package
-footprint: agg:QFN-48-EP-ST
+footprint: cusf:QFN-48-EP-ST
 name: STM32F411CxUx
 ordercodes:
 - [Farnell, '2456965']

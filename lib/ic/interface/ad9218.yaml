@@ -1,6 +1,6 @@
 datasheet: http://www.analog.com/media/en/technical-documentation/data-sheets/AD9218.pdf
 description: 10bit 105MSPS dual ADC
-footprint: agg:LQFP-48
+footprint: cusf:LQFP-48
 name: AD9218
 ordercodes:
   - [Farnell, '2376664']

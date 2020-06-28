@@ -3,7 +3,7 @@ datasheet: https://katalog.we-online.de/pbs/datasheet/7499210124A.pdf
 description: Shielded 8P8C Modular Connector with Magnetics, PoE, and LEDs
 designator: J
 ordercodes: [["Farnell", "2356103"]]
-footprint: agg:WE-RJ45LAN-7499210124A
+footprint: cusf:WE-RJ45LAN-7499210124A
 pins:
 - - - [LED1_C, 11, passive]
     - [LED1_A, 12, passive]

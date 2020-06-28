@@ -1,6 +1,6 @@
 datasheet: https://cds.linear.com/docs/en/datasheet/2975f.pdf
 description: 4 Channel PMBus Power System Manager
-footprint: agg:QFN-64-EP-LTC-UP
+footprint: cusf:QFN-64-EP-LTC-UP
 name: LTC2975
 ordercodes:
 - [Farnell, '2461150']

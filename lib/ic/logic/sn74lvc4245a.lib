@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF SN74LVC4245A IC 0 40 Y Y 1 F N
 F0 "IC" -300 700 50 H V L CNN
 F1 "SN74LVC4245A" -300 -700 50 H V L CNN
-F2 "agg:TSSOP-24" -300 -800 50 H I L CNN
+F2 "cusf:TSSOP-24" -300 -800 50 H I L CNN
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc4245a.pdf" -300 -900 50 H I L CNN
 F4 "1236393" -300 -1000 50 H I L CNN "Farnell"
 DRAW

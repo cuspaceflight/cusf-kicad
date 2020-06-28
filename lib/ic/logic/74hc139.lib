@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 74HC139 IC 0 40 Y Y 1 F N
 F0 "IC" -300 600 50 H V L CNN
 F1 "74HC139" -300 -600 50 H V L CNN
-F2 "agg:TSSOP-16" -300 -700 50 H I L CNN
+F2 "cusf:TSSOP-16" -300 -700 50 H I L CNN
 F3 "http://cache.nxp.com/documents/data_sheet/74HC_HCT139.pdf" -300 -800 50 H I L CNN
 F4 "2444981" -300 -900 50 H I L CNN "Farnell"
 DRAW

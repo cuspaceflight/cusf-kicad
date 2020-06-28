@@ -1,6 +1,6 @@
 datasheet: https://assets.tracopower.com/20190429154235/TME/documents/tme-datasheet.pdf
 description: Isolated DC-DC converter
-footprint: agg:SIP-4-DCDC
+footprint: cusf:SIP-4-DCDC
 name: TME
 ordercodes:
   - [RS, '706-5445']

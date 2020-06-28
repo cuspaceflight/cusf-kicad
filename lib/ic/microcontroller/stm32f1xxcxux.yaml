@@ -1,6 +1,6 @@
 datasheet: http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf
 description: STM32F1 48 pin UFQFPN package
-footprint: agg:QFN-48-EP-ST
+footprint: cusf:QFN-48-EP-ST
 name: STM32F1xxCxUx
 ordercodes:
 - [Farnell, '2060891']

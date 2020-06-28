@@ -1,6 +1,6 @@
 name: NCV8460A
 description: Self Protected High Side Driver with Temperature Shutdown and Current Limit
-footprint: agg:SOIC-8
+footprint: cusf:SOIC-8
 datasheet: https://www.onsemi.com/pub/Collateral/NCV8460-D.PDF
 ordercodes:
   - [Farnell, '2845252']

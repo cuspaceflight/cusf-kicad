@@ -1,6 +1,6 @@
 datasheet: http://cache.nxp.com/documents/data_sheet/PCA9502.pdf
 description: I2C 8-bit Port Expander
-footprint: agg:HVQFN24-NXP
+footprint: cusf:HVQFN24-NXP
 name: PCA9502
 ordercodes:
 - [Farnell, '2212086']

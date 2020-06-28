@@ -1,6 +1,6 @@
 datasheet: https://datasheets.maximintegrated.com/en/ds/MAX5969A-MAX5969B.pdf
 description: MAX5969x 802.3af PoE PD controller
-footprint: agg:DFN-10-EP-MAX
+footprint: cusf:DFN-10-EP-MAX
 name: MAX5969x
 ordercodes:
 - [Farnell, '2514586']

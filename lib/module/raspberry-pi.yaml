@@ -1,7 +1,7 @@
 datasheet: https://pinout.xyz/
 description: Raspberry Pi GPIO Connector
 designator: J
-footprint: agg:DIL-254P-40
+footprint: cusf:DIL-254P-40
 name: RASPBERRY-PI
 ordercodes: []
 pins:

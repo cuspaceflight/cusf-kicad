@@ -1,6 +1,6 @@
 datasheet: https://datasheets.maximintegrated.com/en/ds/MAX11661-MAX11666.pdf
 description: 500ksps 12bit ADC
-footprint: agg:SOT-23-6
+footprint: cusf:SOT-23-6
 name: MAX11665AUT
 ordercodes:
   - [Farnell, '2513633']

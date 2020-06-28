@@ -1,6 +1,6 @@
 datasheet: http://katalog.we-online.de/pbs/datasheet/749010012A.pdf
 description: 10/100Mbps ethernet magnetics
-footprint: agg:749010012A
+footprint: cusf:749010012A
 designator: T
 name: 749010012A
 ordercodes:

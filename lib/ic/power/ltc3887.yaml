@@ -1,7 +1,7 @@
 datasheet: http://cds.linear.com/docs/en/datasheet/3887fb.pdf
 description: Dual Output PolyPhase Step-Down DC/DC Controllerwith Digital Power System
   Management
-footprint: agg:QFN-40-EP-LTC-UJ
+footprint: cusf:QFN-40-EP-LTC-UJ
 name: LTC3887
 ordercodes:
 - [Farnell, '2475658']

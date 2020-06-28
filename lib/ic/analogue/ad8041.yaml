@@ -1,6 +1,6 @@
 datasheet: http://www.analog.com/media/en/technical-documentation/data-sheets/AD8041.pdf
 description: 160MHz rail-to-rail opamp with disable
-footprint: agg:SOIC-8
+footprint: cusf:SOIC-8
 name: AD8041
 ordercodes:
   - [Farnell, '1660976']

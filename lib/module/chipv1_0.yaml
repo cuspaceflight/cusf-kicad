@@ -1,6 +1,6 @@
 datasheet: http://docs.getchip.com/#chip-hardware
 description: CHIP Single Board Computer v1.0
-footprint: agg:CHIPv1_0
+footprint: cusf:CHIPv1_0
 name: CHIPv1_0
 ordercodes: []
 pins:

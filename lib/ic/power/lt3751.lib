@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF LT3751 IC 0 40 Y Y 1 F N
 F0 "IC" -400 800 50 H V L CNN
 F1 "LT3751" -400 -800 50 H V L CNN
-F2 "agg:TSSOP-20-EP" -400 -900 50 H I L CNN
+F2 "cusf:TSSOP-20-EP" -400 -900 50 H I L CNN
 F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/LT3751.pdf" -400 -1000 50 H I L CNN
 F4 "584-LT3751EFE#PBF" -400 -1100 50 H I L CNN "Mouser"
 DRAW

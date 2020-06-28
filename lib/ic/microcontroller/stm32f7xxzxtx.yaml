@@ -1,6 +1,6 @@
 datasheet: www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00273119.pdf
 description: STM32F7 144 pin LQFP package
-footprint: agg:LQFP-144
+footprint: cusf:LQFP-144
 name: STM32F7xxZxTx
 ordercodes:
   - [Farnell, '2535499']

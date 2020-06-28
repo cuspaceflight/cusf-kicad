@@ -1,5 +1,5 @@
 description: 16-Bit Digital Barometer
-footprint: agg:MS5540C
+footprint: cusf:MS5540C
 name: MS5540C
 ordercodes:
 - [Farnell, '2362662']

@@ -1,6 +1,6 @@
 name: SSM2305
 datasheet: http://www.analog.com/media/en/technical-documentation/data-sheets/SSM2305.pdf
-footprint: agg:MSOP-8
+footprint: cusf:MSOP-8
 description: Mono 2.8W Class D Audio Amplifier
 ordercodes:
   - [Farnell, '2074853']

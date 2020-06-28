@@ -1,6 +1,6 @@
 datasheet: http://www.tracopower.com/products/tsr1.pdf
 description: TSR1 Switch Mode Regulators
-footprint: agg:TSR1
+footprint: cusf:TSR1
 name: TSR1
 ordercodes: []
 pins:

@@ -1,6 +1,6 @@
 datasheet: http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf
 description: STM32F4 100 pin LQFP package
-footprint: agg:LQFP-100
+footprint: cusf:LQFP-100
 name: STM32F4xxVxTx
 ordercodes:
 - [Farnell, '2215224']

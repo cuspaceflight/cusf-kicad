@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF CHIPv1_0 IC 0 40 Y Y 1 F N
 F0 "IC" -550 2700 50 H V L CNN
 F1 "CHIPv1_0" -550 -2700 50 H V L CNN
-F2 "agg:CHIPv1_0" -550 -2800 50 H I L CNN
+F2 "cusf:CHIPv1_0" -550 -2800 50 H I L CNN
 F3 "http://docs.getchip.com/#chip-hardware" -550 -2900 50 H I L CNN
 DRAW
 S -550 2650 550 -2650 0 1 0 f

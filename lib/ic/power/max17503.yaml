@@ -1,6 +1,6 @@
 datasheet: https://datasheets.maximintegrated.com/en/ds/MAX17503.pdf
 description: Step-down DC-DC converter
-footprint: agg:QFN-20-EP-MAX
+footprint: cusf:QFN-20-EP-MAX
 name: MAX17503
 ordercodes:
 - [Farnell, '2514229']

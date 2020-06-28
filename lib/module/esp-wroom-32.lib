@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ESP-WROOM-32 IC 0 40 Y Y 1 F N
 F0 "IC" -900 1200 50 H V L CNN
 F1 "ESP-WROOM-32" -900 -1200 50 H V L CNN
-F2 "agg:ESP-WROOM-32" -900 -1300 50 H I L CNN
+F2 "cusf:ESP-WROOM-32" -900 -1300 50 H I L CNN
 F3 "https://espressif.com/sites/default/files/documentation/esp_wroom_32_datasheet_en.pdf" -900 -1400 50 H I L CNN
 DRAW
 S -900 1150 900 -1150 0 1 0 f

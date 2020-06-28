@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF STM32F0xxKxUx IC 0 40 Y Y 1 F N
 F0 "IC" -300 1100 50 H V L CNN
 F1 "STM32F0xxKxUx" -300 -1100 50 H V L CNN
-F2 "agg:QFN-32-EP-ST" -300 -1200 50 H I L CNN
+F2 "cusf:QFN-32-EP-ST" -300 -1200 50 H I L CNN
 F3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf" -300 -1300 50 H I L CNN
 F4 "2393639" -300 -1400 50 H I L CNN "Farnell"
 DRAW

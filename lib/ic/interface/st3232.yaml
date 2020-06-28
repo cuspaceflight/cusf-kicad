@@ -1,6 +1,6 @@
 datasheet: www.st.com/resource/en/datasheet/st3232b.pdf
 description: RS-232 driver & receiver
-footprint: agg:TSSOP-16
+footprint: cusf:TSSOP-16
 name: ST3232
 ordercodes:
 - [Farnell, '1366572']

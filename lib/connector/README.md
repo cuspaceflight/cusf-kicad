@@ -1,13 +1,13 @@
 # Connectors
 
 ### MicroSD
-* [MicroSD 
+* [MicroSD
   holder](http://www.molex.com/molex/products/datasheet.jsp?part=active/5033981892_MEMORY_CARD_SOCKET.xml)
 * Farnell 2358234
 * Used with MICROSD_MOLEX_503398-1892 footprint on M2FC successfully
 
 ### MicroUSB
-* [MicroUSB 
+* [MicroUSB
   connector](http://www.molex.com/molex/products/datasheet.jsp?part=active/0475890001_IO_CONNECTORS.xml)
 * Farnell 1568023
 * Use with MICROUSB_MOLEX_47589-0001, not yet tested
@@ -27,7 +27,7 @@
 * Serial wire debug connector
 * 2x5 pin 0.05" pitch
 * Recommended part FTSH-105-01-F-D-K, sold by Toby and others
-* Recommended footprint agg:FTSH-105-01-F-D-K, used on M2FC, M2R, Supervide
+* Recommended footprint cusf:FTSH-105-01-F-D-K, used on M2FC, M2R, Supervide
 * Alternative non-polarised header Farnell 1865285 (same footprint)
 * Alternative non-polarised surface mount Farnell 1865279 (different footprint)
 

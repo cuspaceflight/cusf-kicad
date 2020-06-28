@@ -1,6 +1,6 @@
 datasheet: http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00108833.pdf
 description: STM32L4 72 pin WLCSP package
-footprint: agg:WLCSP72
+footprint: cusf:WLCSP72
 name: STM32L4xxJxYx
 ordercodes:
 - [Farnell, '2503302']

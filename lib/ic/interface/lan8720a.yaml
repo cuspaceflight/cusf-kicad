@@ -1,6 +1,6 @@
 datasheet: http://ww1.microchip.com/downloads/en/DeviceDoc/8720a.pdf
-description: RMII 10/100 Ethernet Transceiver 
-footprint: agg:QFN-24-EP-MICROCHIP
+description: RMII 10/100 Ethernet Transceiver
+footprint: cusf:QFN-24-EP-MICROCHIP
 name: LAN8720A
 ordercodes:
 - [Farnell, '2292577']
@@ -30,4 +30,3 @@ pins:
     - [VDDCR, 6, passive]
     - [VDDIO, 9, pwrin]
     - [VSS, EP, pwrin]
-

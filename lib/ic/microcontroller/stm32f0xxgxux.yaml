@@ -1,6 +1,6 @@
-datasheet: http://www.st.com/resource/en/datasheet/stm32f042g6.pdf 
+datasheet: http://www.st.com/resource/en/datasheet/stm32f042g6.pdf
 description: STM32F0 28 pin UQFPN package
-footprint: agg:QFN-28-ST
+footprint: cusf:QFN-28-ST
 name: STM32F0xxGxUx
 ordercodes:
 - [Farnell, '2469551']

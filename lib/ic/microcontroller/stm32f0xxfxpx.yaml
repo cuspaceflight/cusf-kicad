@@ -1,6 +1,6 @@
 datasheet: http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00105814.pdf
 description: STM32F042 in TSSOP-20 package
-footprint: agg:TSSOP-20
+footprint: cusf:TSSOP-20
 name: STM32F0xxFxPx
 ordercodes:
 - [Farnell, '2469549']

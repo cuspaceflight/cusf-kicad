@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF STM32F1xxRxTx IC 0 40 Y Y 1 F N
 F0 "IC" -800 1900 50 H V L CNN
 F1 "STM32F1xxRxTx" -800 -1900 50 H V L CNN
-F2 "agg:LQFP-64" -800 -2000 50 H I L CNN
+F2 "cusf:LQFP-64" -800 -2000 50 H I L CNN
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/e4/f3/1a/89/5a/02/46/ae/CD00220364.pdf/files/CD00220364.pdf/jcr:content/translations/en.CD00220364.pdf" -800 -2100 50 H I L CNN
 F4 "2333202" -800 -2200 50 H I L CNN "Farnell"
 DRAW

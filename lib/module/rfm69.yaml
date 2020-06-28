@@ -1,7 +1,7 @@
 name: RFM69
 description: ISM Transceiver Module from HopeRF
 datasheet: http://www.hoperf.com/upload/rf/RFM69HW-V1.3.pdf
-footprint: agg:RFM69
+footprint: cusf:RFM69
 pins:
 - - - [RESET, 1, in]
     - [DIO0, 2, bidi]

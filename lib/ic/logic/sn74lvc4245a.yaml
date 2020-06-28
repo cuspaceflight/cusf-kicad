@@ -1,6 +1,6 @@
 datasheet: http://www.ti.com/lit/ds/symlink/sn74lvc4245a.pdf
 description: Logic Level Translator & Buffer
-footprint: agg:TSSOP-24
+footprint: cusf:TSSOP-24
 name: SN74LVC4245A
 ordercodes:
 - [Farnell, '1236393']

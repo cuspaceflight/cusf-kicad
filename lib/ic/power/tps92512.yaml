@@ -1,6 +1,6 @@
 datasheet: http://www.ti.com/lit/ds/symlink/tps92512.pdf
 description: 2.5A constant current buck converter / LED driver
-footprint: agg:MSOP-10-EP-TI
+footprint: cusf:MSOP-10-EP-TI
 name: TPS92512
 ordercodes:
 - [Farnell, '2471141']

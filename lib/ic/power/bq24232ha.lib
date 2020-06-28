@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF BQ24232HA IC 0 40 Y Y 1 F N
 F0 "IC" -400 700 50 H V L CNN
 F1 "BQ24232HA" -400 -700 50 H V L CNN
-F2 "agg:QFN-16-EP-TI" -400 -800 50 H I L CNN
+F2 "cusf:QFN-16-EP-TI" -400 -800 50 H I L CNN
 F3 "http://www.ti.com/lit/ds/symlink/bq24232ha.pdf" -400 -900 50 H I L CNN
 F4 "2576286" -400 -1000 50 H I L CNN "Farnell"
 DRAW

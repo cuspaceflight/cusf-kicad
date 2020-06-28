@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF BSP772T IC 0 40 Y Y 1 F N
 F0 "IC" -200 400 50 H V L CNN
 F1 "BSP772T" -200 -400 50 H V L CNN
-F2 "agg:SOIC-8" -200 -500 50 H I L CNN
+F2 "cusf:SOIC-8" -200 -500 50 H I L CNN
 F3 "https://www.infineon.com/dgdl/Infineon-BSP772T-DS-v01_01-EN.pdf?fileId=5546d4625a888733015aadefb07a4c41" -200 -600 50 H I L CNN
 F4 "2215486" -200 -700 50 H I L CNN "Farnell"
 DRAW

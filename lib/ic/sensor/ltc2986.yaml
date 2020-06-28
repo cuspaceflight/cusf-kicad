@@ -1,6 +1,6 @@
 datasheet: https://www.analog.com/media/en/technical-documentation/data-sheets/29861fa.pdf
 description: Multi-Sensor High Accuracy Digital Temperature Measurement System
-footprint: agg:LQFP-48
+footprint: cusf:LQFP-48
 name: LTC2986
 ordercodes:
 - [Farnell, '2629645']

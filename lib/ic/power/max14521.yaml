@@ -1,6 +1,6 @@
 datasheet: https://datasheets.maximintegrated.com/en/ds/MAX14521E.pdf
 description: I2C Quad EL lamp driver
-footprint: agg:QFN-24-EP-MAX
+footprint: cusf:QFN-24-EP-MAX
 name: MAX14521
 ordercodes:
 - [Farnell, '2514397']

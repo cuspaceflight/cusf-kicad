@@ -1,6 +1,6 @@
 datasheet: https://espressif.com/sites/default/files/documentation/esp_wroom_32_datasheet_en.pdf
 description: ESP32 (ESP-WROOM-32 module)
-footprint: agg:ESP-WROOM-32
+footprint: cusf:ESP-WROOM-32
 name: ESP-WROOM-32
 ordercodes: []
 pins:

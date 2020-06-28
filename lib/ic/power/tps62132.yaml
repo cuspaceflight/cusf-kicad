@@ -1,6 +1,6 @@
 datasheet: http://www.ti.com/lit/ds/symlink/tps62132.pdf
 description: 3.3Vout 3A, fixed, Buck Converter
-footprint: agg:QFN-16-EP-TI
+footprint: cusf:QFN-16-EP-TI
 name: TPS62132
 ordercodes:
 - [Farnell, '2492468']

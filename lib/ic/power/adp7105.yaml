@@ -1,6 +1,6 @@
 datasheet: https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7105.pdf
 description: Low Noise 500mA LDO
-footprint: agg:SOIC-8-EP
+footprint: cusf:SOIC-8-EP
 name: ADP7105
 ordercodes:
   - [Mouser, '584-ADP7105ARDZ-3.3']

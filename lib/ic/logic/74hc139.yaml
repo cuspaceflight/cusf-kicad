@@ -1,6 +1,6 @@
 datasheet: http://cache.nxp.com/documents/data_sheet/74HC_HCT139.pdf
 description: Dual 2-to-4 line decoder/demultiplexer
-footprint: agg:TSSOP-16
+footprint: cusf:TSSOP-16
 name: 74HC139
 ordercodes:
 - [Farnell, '2444981']

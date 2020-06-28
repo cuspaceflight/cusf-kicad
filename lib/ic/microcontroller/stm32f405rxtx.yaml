@@ -1,6 +1,6 @@
 datasheet: http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf
 description: STM32F4 64 pin TQFP package
-footprint: agg:LQFP-64
+footprint: cusf:LQFP-64
 name: STM32F405RxTx
 ordercodes:
 - [Farnell, '2064363']

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF Si3402-B IC 0 40 Y Y 1 F N
 F0 "IC" -400 800 50 H V L CNN
 F1 "Si3402-B" -400 -800 50 H V L CNN
-F2 "agg:QFN-20-EP-SI3402-B" -400 -900 50 H I L CNN
+F2 "cusf:QFN-20-EP-SI3402-B" -400 -900 50 H I L CNN
 F3 "http://www.silabs.com/Support%20Documents/TechnicalDocs/Si3402-B.pdf" -400 -1000 50 H I L CNN
 F4 "634-SI3402-B-GMR" -400 -1100 50 H I L CNN "Mouser"
 DRAW

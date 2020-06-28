@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF HV823 IC 0 40 Y Y 1 F N
 F0 "IC" -400 300 50 H V L CNN
 F1 "HV823" -400 -300 50 H V L CNN
-F2 "agg:SOIC-8" -400 -400 50 H I L CNN
+F2 "cusf:SOIC-8" -400 -400 50 H I L CNN
 F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/HV823%20C082213.pdf" -400 -500 50 H I L CNN
 DRAW
 S -400 250 400 -250 0 1 0 f

@@ -3,7 +3,7 @@ datasheet: https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/rjhse538x04.
 description: 4-Port Shielded 8P8C Modular Connector with LEDs
 designator: J
 ordercodes: [["Farnell", "1860606"]]
-footprint: agg:RJHSE-538X-04
+footprint: cusf:RJHSE-538X-04
 pins:
 - - - [TX+, 1P1, passive]
     - [TX-, 1P2, passive]

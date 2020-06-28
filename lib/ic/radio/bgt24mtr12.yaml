@@ -1,6 +1,6 @@
 datasheet: http://www.infineon.com/dgdl/?fileId=db3a304339dcf4b10139df108e75025b
 description: 24GHz Transceiver MMIC
-footprint: agg:QFN-32-BGT24MTR
+footprint: cusf:QFN-32-BGT24MTR
 name: BGT24MTR12
 ordercodes:
   - [Farnell, '2710089']

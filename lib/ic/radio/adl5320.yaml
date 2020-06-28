@@ -1,6 +1,6 @@
 datasheet: http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5320.pdf
 description: 0.5W 400MHz-2.7GHz RF Driver Amplifier
-footprint: agg:SOT-89-3
+footprint: cusf:SOT-89-3
 name: ADL5320
 ordercodes:
 - [Farnell, '2377141']

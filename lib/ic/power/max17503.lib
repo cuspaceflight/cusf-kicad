@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF MAX17503 IC 0 40 Y Y 1 F N
 F0 "IC" -400 800 50 H V L CNN
 F1 "MAX17503" -400 -800 50 H V L CNN
-F2 "agg:QFN-20-EP-MAX" -400 -900 50 H I L CNN
+F2 "cusf:QFN-20-EP-MAX" -400 -900 50 H I L CNN
 F3 "https://datasheets.maximintegrated.com/en/ds/MAX17503.pdf" -400 -1000 50 H I L CNN
 F4 "2514229" -400 -1100 50 H I L CNN "Farnell"
 DRAW

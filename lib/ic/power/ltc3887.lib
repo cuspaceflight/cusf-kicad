@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF LTC3887 IC 0 40 Y Y 1 F N
 F0 "IC" -600 1500 50 H V L CNN
 F1 "LTC3887" -600 -1500 50 H V L CNN
-F2 "agg:QFN-40-EP-LTC-UJ" -600 -1600 50 H I L CNN
+F2 "cusf:QFN-40-EP-LTC-UJ" -600 -1600 50 H I L CNN
 F3 "http://cds.linear.com/docs/en/datasheet/3887fb.pdf" -600 -1700 50 H I L CNN
 F4 "2475658" -600 -1800 50 H I L CNN "Farnell"
 DRAW

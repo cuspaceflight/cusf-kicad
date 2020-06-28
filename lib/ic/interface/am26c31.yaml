@@ -1,6 +1,6 @@
 datasheet: http://www.ti.com.cn/cn/lit/ds/symlink/am26c31.pdf
 description: Quad RS422 driver
-footprint: agg:SOIC-16
+footprint: cusf:SOIC-16
 name: AM26C31
 ordercodes:
 - [Farnell, '4975637']

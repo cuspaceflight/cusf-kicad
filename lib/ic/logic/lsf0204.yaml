@@ -1,6 +1,6 @@
 datasheet: http://www.ti.com/lit/ds/symlink/lsf0204.pdf
 description: Logic Level Translator
-footprint: agg:TSSOP-14
+footprint: cusf:TSSOP-14
 name: LSF0204
 ordercodes:
 - [Digikey, '296-38653-1-ND']
@@ -19,4 +19,3 @@ pins:
     - [B4, 10, bidi]
     - [NC, 9, nc]
     - [EN, 8, in]
-

@@ -1,6 +1,6 @@
 datasheet: http://www.ti.com/lit/ds/symlink/tlv61220.pdf
 description: Adjustable 200mA Boost Converter
-footprint: agg:SOT-23-6
+footprint: cusf:SOT-23-6
 name: TLV61220
 ordercodes:
 - [Farnell, '2323546']

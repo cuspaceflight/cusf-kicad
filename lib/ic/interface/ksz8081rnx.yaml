@@ -1,6 +1,6 @@
 datasheet: http://ww1.microchip.com/downloads/en/DeviceDoc/KSZ8081RNA_RND.pdf
 description: RMII 100/10Mbps ethernet PHY
-footprint: agg:QFN-24-EP-MICREL
+footprint: cusf:QFN-24-EP-MICREL
 name: KSZ8081RNx
 ordercodes:
 - [Farnell, '2509802']

@@ -1,6 +1,6 @@
 datasheet: http://www.analog.com/media/en/technical-documentation/data-sheets/ADP2370_2371.pdf
 description: 800mA Buck Regulator
-footprint: agg:DFN-8-EP-AD
+footprint: cusf:DFN-8-EP-AD
 name: ADP2370
 ordercodes:
 - [Farnell, '2112679']

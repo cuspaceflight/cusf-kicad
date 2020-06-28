@@ -1,6 +1,6 @@
 name: NCP380
 datasheet: http://www.onsemi.com/pub_link/Collateral/NCP380-D.PDF
-footprint: agg:DFN-6-EP-ONSEMI
+footprint: cusf:DFN-6-EP-ONSEMI
 description: Fixed/Adjustable Current-Limiting Power-Distribution Switch
 ordercodes:
   - [Farnell, '2464412']

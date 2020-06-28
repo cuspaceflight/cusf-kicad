@@ -1,6 +1,6 @@
 datasheet: http://cds.linear.com/docs/en/datasheet/2983fc.pdf
 description: Digital Temperature Measurement System
-footprint: agg:LQFP-48
+footprint: cusf:LQFP-48
 name: LTC2983
 ordercodes:
 - [Farnell, '2461149']

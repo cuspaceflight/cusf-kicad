@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF LTC2975 IC 0 40 Y Y 1 F N
 F0 "IC" -700 2100 50 H V L CNN
 F1 "LTC2975" -700 -2100 50 H V L CNN
-F2 "agg:QFN-64-EP-LTC-UP" -700 -2200 50 H I L CNN
+F2 "cusf:QFN-64-EP-LTC-UP" -700 -2200 50 H I L CNN
 F3 "https://cds.linear.com/docs/en/datasheet/2975f.pdf" -700 -2300 50 H I L CNN
 F4 "2461150" -700 -2400 50 H I L CNN "Farnell"
 DRAW

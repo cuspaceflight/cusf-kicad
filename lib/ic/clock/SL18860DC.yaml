@@ -2,7 +2,7 @@ name: SL18860DC
 datasheet: http://www.silabs.com/Support%20Documents/TechnicalDocs/SL18860.pdf
 description: 3-Channel Clock Distribution Buffer
 ordercodes: [["Mouser", "634-SL18860DC"]]
-footprint: agg:DFN-10-SL18860DC
+footprint: cusf:DFN-10-SL18860DC
 pins:
 - - - [VDD, 2, pwrin]
     - [VSS, 1, pwrin]

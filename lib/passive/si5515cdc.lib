@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF Si5515CDC Q 0 0 N N 2 L N
 F0 "Q" 150 50 50 H V L CNN
 F1 "Si5515CDC" 150 -50 50 H V L CNN
-F2 "agg:ChipFET-1206-8" 0 -750 50 H I C CNN
+F2 "cusf:ChipFET-1206-8" 0 -750 50 H I C CNN
 F3 "http://www.vishay.com/docs/68747/si5515cd.pdf" 0 -550 50 H I C CNN
 F4 "2335332" 0 -650 50 H I C CNN "Farnell"
 DRAW

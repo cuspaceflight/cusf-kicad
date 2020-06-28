@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF STM32F7xxZxTx IC 0 40 Y Y 1 F N
 F0 "IC" -550 4300 50 H V L CNN
 F1 "STM32F7xxZxTx" -550 -4300 50 H V L CNN
-F2 "agg:LQFP-144" -550 -4400 50 H I L CNN
+F2 "cusf:LQFP-144" -550 -4400 50 H I L CNN
 F3 "www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00273119.pdf" -550 -4500 50 H I L CNN
 F4 "2535499" -550 -4600 50 H I L CNN "Farnell"
 DRAW

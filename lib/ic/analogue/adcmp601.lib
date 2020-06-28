@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ADCMP601 IC 0 40 Y N 1 F N
 F0 "IC" 260 240 50 H V L CNN
 F1 "ADCMP601" 270 -110 50 H V L CNN
-F2 "agg:SC-70-6" 0 -420 50 H I C CNN
+F2 "cusf:SC-70-6" 0 -420 50 H I C CNN
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADCMP600_601_602.pdf" 0 -350 50 H I C CNN
 F4 "1331025" 0 -280 50 H I C CNN "Farnell"
 DRAW

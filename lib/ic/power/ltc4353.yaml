@@ -1,6 +1,6 @@
 datasheet: https://cds.linear.com/docs/en/datasheet/4353f.pdf
 description: Dual Output Low Voltage Ideal Diode Controller
-footprint: agg:DFN-16-EP-LTC-DE
+footprint: cusf:DFN-16-EP-LTC-DE
 name: LTC4353
 ordercodes:
 - [Farnell, '2115909']

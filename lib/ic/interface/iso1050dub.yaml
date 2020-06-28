@@ -1,6 +1,6 @@
 datasheet: http://www.ti.com/lit/ds/symlink/iso1050.pdf
 description: Isolated CAN transceiver
-footprint: agg:DUB0008A
+footprint: cusf:DUB0008A
 name: ISO1050DUB
 ordercodes:
   - [Farnell, '1755712']

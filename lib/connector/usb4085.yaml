@@ -4,7 +4,7 @@ description: Type C USB 2.0 Connector
 designator: J
 ordercodes:
   - [Farnell, "2924867"]
-footprint: agg:USB4085
+footprint: cusf:USB4085
 pins:
 - - - [VBUS, A4, passive]
     - [VBUS, B4, passive]

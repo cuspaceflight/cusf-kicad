@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF BQ40Z60 IC 0 40 Y Y 1 F N
 F0 "IC" -400 1200 50 H V L CNN
 F1 "BQ40Z60" -400 -1200 50 H V L CNN
-F2 "agg:QFN-32-EP-TI" -400 -1300 50 H I L CNN
+F2 "cusf:QFN-32-EP-TI" -400 -1300 50 H I L CNN
 F3 "http://www.ti.com/lit/ds/symlink/bq40z60.pdf" -400 -1400 50 H I L CNN
 F4 "2471154" -400 -1500 50 H I L CNN "Farnell"
 DRAW

@@ -1,6 +1,6 @@
 datasheet: http://ww1.microchip.com/downloads/en/DeviceDoc/00001692C.pdf
 description: USB 2.0 Hi-Speed Hub Controller
-footprint: agg:QFN-36-EP-MICROCHIP-SQFN
+footprint: cusf:QFN-36-EP-MICROCHIP-SQFN
 name: USB251xB
 ordercodes:
   - [Farnell, '2534612']
@@ -50,4 +50,3 @@ pins:
     - [~OCS3, 19, in]
   - - [PRTPWR4/BC_EN4, 20, bidi]
     - [~OCS4, 21, in]
-

@@ -1,6 +1,6 @@
 datasheet: http://ww1.microchip.com/downloads/en/DeviceDoc/HV823%20C082213.pdf
 description: High voltage EL lamp driver
-footprint: agg:SOIC-8
+footprint: cusf:SOIC-8
 name: HV823
 pins:
 - - - [VDD, 1, pwrin]
@@ -14,4 +14,3 @@ pins:
 
   - - [VA, 7, out]
     - [VB, 6, out]
-

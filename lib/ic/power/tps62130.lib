@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF TPS62130 IC 0 40 Y Y 1 F N
 F0 "IC" -300 700 50 H V L CNN
 F1 "TPS62130" -300 -700 50 H V L CNN
-F2 "agg:QFN-16-EP-TI" -300 -800 50 H I L CNN
+F2 "cusf:QFN-16-EP-TI" -300 -800 50 H I L CNN
 F3 "http://www.ti.com/lit/ds/symlink/tps62130.pdf" -300 -900 50 H I L CNN
 F4 "2361246" -300 -1000 50 H I L CNN "Farnell"
 DRAW

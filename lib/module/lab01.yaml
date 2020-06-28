@@ -1,5 +1,5 @@
 description: Labrador Radio LAB01
-footprint: agg:LAB01
+footprint: cusf:LAB01
 name: LAB01
 ordercodes: []
 pins:

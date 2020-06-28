@@ -2,7 +2,7 @@ name: Si3402-B
 datasheet: http://www.silabs.com/Support%20Documents/TechnicalDocs/Si3402-B.pdf
 description: PoE PD interface and switching regulator
 ordercodes: [["Mouser", "634-SI3402-B-GMR"]]
-footprint: agg:QFN-20-EP-SI3402-B
+footprint: cusf:QFN-20-EP-SI3402-B
 pins:
 - - - [VPOSF, 12, pwrout]
     - [VPOSS, 16, nc]

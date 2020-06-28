@@ -1,6 +1,6 @@
 datasheet: http://www.st.com/resource/en/datasheet/ldl212.pdf
 description: High PSRR 1.2A adjustable LDO
-footprint: agg:SOIC-8
+footprint: cusf:SOIC-8
 name: LDL212DR
 ordercodes:
 - [Farnell, '2630956']

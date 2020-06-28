@@ -1,6 +1,6 @@
 datasheet: https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS001-11.pdf
 description: Digital humidity, pressure, and temperature sensor
-footprint: agg:BME280
+footprint: cusf:BME280
 name: BME280
 ordercodes:
 - [Mouser, '262-BME280']

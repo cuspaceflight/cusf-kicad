@@ -1,6 +1,6 @@
 datasheet: http://ww1.microchip.com/downloads/en/DeviceDoc/20005167C.pdf
 description: High Speed CAN Transceiver
-footprint: agg:DFN-8-EP-MICROCHIP
+footprint: cusf:DFN-8-EP-MICROCHIP
 name: MCP2562
 ordercodes:
 - [Farnell, '']

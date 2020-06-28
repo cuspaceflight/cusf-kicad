@@ -1,6 +1,6 @@
 datasheet: http://www.ti.com/lit/ds/symlink/bq40z60.pdf
 description: Programmable Battery Management Unit
-footprint: agg:QFN-32-EP-TI
+footprint: cusf:QFN-32-EP-TI
 name: BQ40Z60
 ordercodes:
 - [Farnell, '2471154']
@@ -48,4 +48,3 @@ pins:
 
   - - [SRP, 8, in]
     - [SRN, 7, in]
-

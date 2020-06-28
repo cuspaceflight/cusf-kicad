@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF VTX-214-003-1xx IC 0 40 Y Y 1 F N
 F0 "IC" -300 200 50 H V L CNN
 F1 "VTX-214-003-1xx" -300 -200 50 H V L CNN
-F2 "agg:VTX-214-003-1xx" -300 -300 50 H I L CNN
+F2 "cusf:VTX-214-003-1xx" -300 -300 50 H I L CNN
 F3 "http://www.farnell.com/datasheets/2060418.pdf" -300 -400 50 H I L CNN
 F4 "2401030" -300 -500 50 H I L CNN "Farnell"
 DRAW

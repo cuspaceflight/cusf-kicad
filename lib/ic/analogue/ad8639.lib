@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF AD8639 IC 0 40 Y Y 1 F N
 F0 "IC" -300 500 50 H V L CNN
 F1 "AD8639" -300 -500 50 H V L CNN
-F2 "agg:MSOP-8" -300 -600 50 H I L CNN
+F2 "cusf:MSOP-8" -300 -600 50 H I L CNN
 F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8638_8639.pdf" -300 -700 50 H I L CNN
 F4 "AD8639ARMZ-ND" -300 -800 50 H I L CNN "Digikey"
 DRAW

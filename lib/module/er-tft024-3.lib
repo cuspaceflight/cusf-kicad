@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ER-TFT024-3 IC 0 40 Y Y 1 F N
 F0 "IC" -400 1700 50 H V L CNN
 F1 "ER-TFT024-3" -400 -1700 50 H V L CNN
-F2 "agg:ER-CON50HT-1" -400 -1800 50 H I L CNN
+F2 "cusf:ER-CON50HT-1" -400 -1800 50 H I L CNN
 F3 "http://www.buydisplay.com/download/manual/ER-TFT024-3_Datasheet.pdf" -400 -1900 50 H I L CNN
 F4 "ER-TFT024-3" -400 -2000 50 H I L CNN "BuyDisplay"
 DRAW

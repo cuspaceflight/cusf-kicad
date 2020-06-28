@@ -1,7 +1,7 @@
 name: AR1021
 description: Resistive Touch Screen Controller
 datasheet: http://ww1.microchip.com/downloads/en/DeviceDoc/40001393C.pdf
-footprint: agg:SSOP-20
+footprint: cusf:SSOP-20
 ordercodes:
   - [Farnell, '2218568']
 pins:

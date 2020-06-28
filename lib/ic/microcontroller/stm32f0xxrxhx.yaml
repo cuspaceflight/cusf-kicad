@@ -1,6 +1,6 @@
 datasheet: http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115237.pdf
 description: STM32F0 64 pin UFBGA package
-footprint: agg:BGA-64-05P-ST
+footprint: cusf:BGA-64-05P-ST
 name: STM32F0xxRxHx
 ordercodes:
 - [Farnell, '2503242']

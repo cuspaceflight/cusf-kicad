@@ -1,6 +1,6 @@
 datasheet: http://www.ti.com/lit/ds/symlink/bq24232ha.pdf
 description: USB-friendly 500mA LiPO charger with power-path management
-footprint: agg:QFN-16-EP-TI
+footprint: cusf:QFN-16-EP-TI
 name: BQ24232HA
 ordercodes:
 - [Farnell, '2576286']

@@ -1,7 +1,7 @@
 name: ESP-12
 description: ESP8266 WiFi Module
 datasheet: https://www.elecrow.com/download/ESP-12F.pdf
-footprint: agg:ESP-12
+footprint: cusf:ESP-12
 ordercodes: []
 pins:
 - - - [VCC, 8, pwrin]

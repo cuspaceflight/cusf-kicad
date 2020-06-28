@@ -1,6 +1,6 @@
 datasheet: https://assets.tracopower.com/20181123133641/TEC2/documents/tec2-datasheet.pdf
 description: Isolated DC-DC converter
-footprint: agg:SIP-8-DCDC
+footprint: cusf:SIP-8-DCDC
 name: TEC2
 ordercodes:
   - [Farnell, '2854900']

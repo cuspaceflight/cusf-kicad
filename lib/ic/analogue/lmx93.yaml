@@ -1,6 +1,6 @@
 datasheet: http://www.ti.com/lit/ds/symlink/lm393.pdf
 description: Dual differential comparator
-footprint: agg:SOIC-8
+footprint: cusf:SOIC-8
 name: LMx93
 ordercodes:
 - [Farnell, '2342314']

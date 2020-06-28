@@ -1,6 +1,6 @@
 datasheet: http://www.latticesemi.com/view_document?document_id=51968
 description: iCE40 UP5K FPGA
-footprint: agg:Lattice-SG48
+footprint: cusf:Lattice-SG48
 name: iCE40UP5K-SG48
 ordercodes:
   - [DigiKey, '220-2212-1-ND']
