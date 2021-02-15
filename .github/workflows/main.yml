@@ -1,0 +1,30 @@
+name: CI
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout
+      - uses: actions/checkout@v2
+      
+      # Set up Python
+      - uses: actions/setup-python@v2
+        with:
+         python-version: 3.8
+
+      # Install
+      - name: Install PyYAML
+        run: python -m pip install PyYAML
+
+      # Run tests
+      - name: Check
+        run: make check V=1
+      
+      - name: Verify
+        run: make verify V=1
