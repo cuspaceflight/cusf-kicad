@@ -1,0 +1,10 @@
+name: SG-3030CM
+description: 32.768 kHz Crystal Oscillator
+datasheet: http://www.farnell.com/datasheets/1804150.pdf
+ordercodes: [["Farnell", "2405744"]]
+footprint: cusf:SG-3030CM
+pins:
+- - - [VIO, 1, pwrin]
+  - - [VCC, 4, pwrin]
+- - - [OUT, 3, out]
+  - - [GND, 2, pwrin]
