@@ -1,0 +1,23 @@
+name: 74HC4050
+description: CMOS Hex Buffer
+datasheet: https://www.ti.com/lit/ds/symlink/cd74hc4050.pdf?ts=1618047822396&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FCD74HC4050
+footprint: cusf:soic-16
+ordercodes:
+  - [Farnell, '1643824']
+pins:
+- - - [VCC, 1, pwrin]
+    - [GND, 8, pwrin]
+  - - [A1, 3, in]
+    - [A2, 5, in]
+    - [A3, 7, in]
+    - [A4, 9, in]
+    - [A5, 11, in]
+    - [A6, 14, in]
+- - - [Y1, 2, out]
+    - [Y2, 4, out]
+    - [Y3, 6, out]
+    - [Y4, 10, out]
+    - [Y5, 12, out]
+    - [Y6, 15, out]
+  - - [NC, 13, nc]
+    - [NC, 16, nc]
